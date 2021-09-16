@@ -11,7 +11,11 @@
 ## About
 The Movie Hub is an App to show all information about trending movies, rates and trailes. It can show movies by genre and search for theaters nearby returning what movies are being diplayed in the theaters. It helps the user to decide which movie to watch and where.
 
-## APIs Utilized
+## APIs
+The Movie Hub utilizes the following APIs
+- Yahoo Weather
+- MovieGlu
+- Movie Database
 
 
 ## LiveLink
