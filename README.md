@@ -3,7 +3,7 @@
 #### Table of Contents
 
 - [About](#About)
-- [APIs Utilized](#APIs Utilized)
+- [APIs](#APIs)
 - [LiveLink](#LiveLink)
 - [Contribution](#Contribution)
 - [License](#License)
